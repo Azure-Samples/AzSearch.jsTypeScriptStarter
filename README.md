@@ -1,57 +1,8 @@
-# Project Name
+# AzSearch.jsTypeScriptStarter
+An AzSearch.js TypeScript starter project. Clone &amp; customize.
 
-(short, 1-3 sentenced, description of the project)
+## Installation & running
+* ```npm install```
+* ```npm run devpack``` (runs webpack debug configuration)
 
-## Features
-
-This project framework provides the following features:
-
-* Feature 1
-* Feature 2
-* ...
-
-## Getting Started
-
-### Prerequisites
-
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [respository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+After bundling you should be able to open the index.html file and see the real estate demo load. 
